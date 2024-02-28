@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
+
 # Working Paper
 
 ## Fueling the Debate: Robust Quantification of Cartel Impact on Gas Stations
