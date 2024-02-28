@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile_photo.png"
+  avatar           : "Profile_photo.jpeg"
   name             : "Bruno amat"
   pronouns         : "He / Him"  
   bio              : "Filds: Empirical Industial Organization and Applied Microeconomics"
