@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in Economics at FGV EPGE. My research interest is to apply Industrial Organization methods to other areas, mainly related to Energy and Infrastructure Economics. 
+I am currently pursuing my Master's degree in Economics at FGV EPGE, where I am deeply engaged in applying Industrial Organization methods to diverse areas, with a primary focus on Energy, Infrastructure and Antitrust Economics. 
 
