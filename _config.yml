@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "pt-BR"
-title                    : "Bruno Ama / Homepage"
+title                    : "Bruno Amat / Homepage"
 title_separator          : "-"
 name                     : &name "Bruno Amat"
 description              : &description "Master's Student in Economics"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile_photo.png"
   name             : "Bruno amat"
   pronouns         : "He / Him"  
   bio              : "Filds: Empirical Industial Organization and Applied Microeconomics"
