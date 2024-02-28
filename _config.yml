@@ -12,7 +12,7 @@ title                    : "Bruno Amat / Homepage"
 title_separator          : "-"
 name                     : &name "Bruno Amat"
 description              : &description "Master's Student in Economics"
-url                      : https://brunoamat77.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://brunoamat77.github.io/site/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BrunoAmat77/site"
 
