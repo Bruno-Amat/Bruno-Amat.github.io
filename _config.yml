@@ -12,9 +12,9 @@ title                    : "Bruno Amat / Homepage"
 title_separator          : "-"
 name                     : &name "Bruno Amat"
 description              : &description "Master's Student in Economics"
-url                      : https://BrunoAmat77.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Bruno-Amat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "BrunoAmat77/BrunoAmat77.github.io"
+repository               : "Bruno-Amat/Bruno-Amat.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +22,7 @@ repository               : "BrunoAmat77/BrunoAmat77.github.io"
 author:
   # Biographic information
   avatar           : "Profile_photo.jpeg"
-  name             : "Bruno amat"
+  name             : "Bruno Amat"
   pronouns         : "He / Him"  
   bio              : "Master's Student in Economics"
   location         : "Rio de Janeiro - Brazil"
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "BrunoAmat77"
+  github           : "Bruno-Amat"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
