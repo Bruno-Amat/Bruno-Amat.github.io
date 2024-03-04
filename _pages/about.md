@@ -11,5 +11,5 @@ I am currently pursuing my Master's degree in Economics at FGV EPGE, where I am 
 
 # Fields of Research Interest
 
-Empirical Industrial Organization, Applied Microeconomics, Infrastructure Economics and Antitrust Economics.
+Industrial Organization, Applied Microeconomics, Antitrust Economics.
 
