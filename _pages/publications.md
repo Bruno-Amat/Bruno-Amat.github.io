@@ -14,9 +14,9 @@ author_profile: true
 
 # Working Paper
 
-## Fueling the Debate: Robust Quantification of Cartel Impact on Gas Stations
+## The Role of Vertical and Horizontal Agreements in Fuel Market Collusion: Evidence from Brazil
 
-Abstract: We conduct an examination of heterogeneity in cartel overcharges within the Brazilian fuel retail market. The study involves constructing a unique dataset that combines firm-level micro data concerning profit margins with legal details pertaining to each cartel case. Employing a Diff-in-Diff approach, our findings reveal variability in overcharges attributed to unnobservable factors such as the cartel structure. Moreover, using a Event Studies configuration we found that the overcharge is unstable over the cartel period and that the firms not condemned for participating on the cartel have the same dynamic of the condemned ones. Finally, we perform robustness checks by changing the treatment group, changing the control group, testing for treatment endogeneity and using a structural breaks approach to define the cartel period. We found that our estimates are robust to those tests.
+Abstract: This work examines the heterogeneity in cartel overcharges within the Brazilian fuel retail market. This study involves constructing a unique dataset that combines firm-level microdata concerning profit margins with legal details pertaining to each cartel case. Employing a differences-in-differences approach, my findings reveal variability in overcharges attributed to unobservable factors such as cartel structure. Therefore, using information about cartel participants, I observe that even though the gas station representative and the wholesaler act as a hub, the impact of participation for these two groups exhibits different signs. While the representative's participation increases the overcharge, the distributor's decreases it.
 
 # Works in Progress
 
