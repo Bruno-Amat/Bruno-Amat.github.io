@@ -23,5 +23,3 @@ Abstract: This work examines the heterogeneity in cartel overcharges within the 
 ## Liberating Skies: Unraveling Firms' Preferences in Brazilian Airport Concession Auctions
 
 ## Roads to Development: Unraveling the Impact of Diverse Concession Models on City Growth
-
-## Machine Learning Meets Antitrust: Investigating the Impacts of DOJ Decision Rule Modifications on Consumer Welfare during the Pandemic
