@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my Master's degree in Economics at FGV EPGE, where I am deeply engaged in applying Industrial Organization methods to diverse areas, with a primary focus on Energy, Infrastructure and Antitrust Economics. 
+I am a PhD student in Economics at UW-Madison, where I am deeply engaged in applying Industrial Organization methods to diverse areas, with a primary focus on Energy, Infrastructure and Antitrust Economics. 
 
 # Fields of Research Interest
 
