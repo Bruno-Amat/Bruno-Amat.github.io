@@ -18,8 +18,4 @@ author_profile: true
 
 Abstract: This work examines the heterogeneity in cartel overcharges within the Brazilian fuel retail market. This study involves constructing a unique dataset that combines firm-level microdata concerning profit margins with legal details pertaining to each cartel case. Employing a differences-in-differences approach, my findings reveal variability in overcharges attributed to unobservable factors such as cartel structure. Therefore, using information about cartel participants, I observe that even though the gas station representative and the wholesaler act as a hub, the impact of participation for these two groups exhibits different signs. While the representative's participation increases the overcharge, the distributor's decreases it.
 
-# Works in Progress
 
-## Liberating Skies: Unraveling Firms' Preferences in Brazilian Airport Concession Auctions
-
-## Roads to Development: Unraveling the Impact of Diverse Concession Models on City Growth
