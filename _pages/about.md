@@ -11,5 +11,5 @@ I am a PhD student in Economics at UW-Madison, where I am deeply engaged in appl
 
 # Fields of Research Interest
 
-Industrial Organization, Applied Microeconomics, Antitrust Economics.
+Industrial Organization, Applied Microeconomics, Applied Econometrics.
 
