@@ -14,8 +14,8 @@ author_profile: true
 
 # Working Paper
 
-## The Role of Vertical and Horizontal Agreements in Fuel Market Collusion: Evidence from Brazil
+## When Wholesalers Join the Cartel: Measuring Overcharge and Pass-Through in Fuel Retail
 
-Abstract: This work examines the heterogeneity in cartel overcharges within the Brazilian fuel retail market. This study involves constructing a unique dataset that combines firm-level microdata concerning profit margins with legal details pertaining to each cartel case. Employing a differences-in-differences approach, my findings reveal variability in overcharges attributed to unobservable factors such as cartel structure. Therefore, using information about cartel participants, I observe that even though the gas station representative and the wholesaler act as a hub, the impact of participation for these two groups exhibits different signs. While the representative's participation increases the overcharge, the distributor's decreases it.
+Abstract: This study examines the effect of wholesaler participation on cartel outcomes. To do so, I construct a novel dataset containing information on eight cartel cases in the Brazilian fuel retail market, with firm-level microdata on retail prices, wholesale prices, and profit margins. I employ a two-step Matching Difference-in-Differences approach—first at the city level and then at the firm level—to estimate the Average Treatment Effect on the Treated (ATT) for each firm. These ATT estimates are then used to build a cross-sectional dataset to analyze the impact of wholesaler participation in cartel activity. The results reveal that wholesaler participation significantly increases both retail prices and profit margins, even though it also raises wholesale prices. The estimated pass-through rate is approximately 561\%, suggesting that gas stations not only pass the increase in input costs on to consumers, but also benefit from enhanced market power due to the involvement of wholesalers. These findings suggest fines should rise when collusion spans wholesalers as well as retailers.
 
 
