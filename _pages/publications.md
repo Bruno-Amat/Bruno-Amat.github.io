@@ -18,7 +18,7 @@ author_profile: true
 
 Abstract: Vertical coordination is often viewed as potentially efficiency-enhancing because it can align incentives across production stages. This paper shows that, in collusive environments, the same vertical links can amplify market power. I study eight Brazilian gasoline cartels using station-level weekly retail and wholesale prices, station characteristics, and legal records from CADE. A two-step matching difference-in-differences design shows that vertical cartels generate substantially larger increases in retail prices and retail markups than horizontal cartels, with weaker but consistent evidence of larger effects on wholesale markups. Small stations are especially affected under vertical cartels. I rationalize these findings with a model of capacity-constrained retail collusion with upstream participation. Horizontal retail cartels are limited by fringe capacity and the participation incentives of small retailers. Vertical cartels weaken the outside option of non-participants through discriminatory wholesale prices, induce full downstream participation, and divide surplus through wholesale terms. A calibrated exercise reproduces the ranking observed in the data. The findings imply that vertical participation can make cartels substantially more harmful to consumers. 
 
-Latest Draft: <a href="https://bruno-amat.github.io/files/When_Wholesalers_Join_the_Cartel.pdf">[PDF]</a> 
+Latest Draft: <a href="https://bruno-amat.github.io/files/When_Wholesalers_Join_the_Cartel.pdf">[PDF]</a>  <a href="https://bruno-amat.github.io/files/When_Wholesalers_Join_the_Cartel_slides.pdf">[Slides]</a>
 
 # Works in Progress
 
