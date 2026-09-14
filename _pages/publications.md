@@ -14,7 +14,7 @@ author_profile: true
 
 # Working Paper
 
-## When Wholesalers Join the Cartel: Prices, Markups, and Rent Sharing
+## When Wholesalers Join the Cartel: Vertical Coordination in Gasoline Markets
 
 *Submitted*
 
@@ -24,7 +24,7 @@ Latest Draft: <a href="https://bruno-amat.github.io/files/When_Wholesalers_Join_
 
 # Works in Progress
 
-## How the State Bids: Government Participation and Pricing in First-Price Procurement Auctions
+## How the State Bids: Government Participation in Procurement Auctions
 
 ## Managing Long-Run Competition: Evidence from Sao Paulo Pharmaceutical Procurement
 
