@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in Economics at UW-Madison, where I am deeply engaged in applying Industrial Organization methods to diverse areas, with a primary focus on Energy, Infrastructure and Antitrust Economics. 
+I am a third-year PhD student in Economics at the University of Wisconsin–Madison. My research interests are in Industrial Organization and Applied Microeconomics, particularly collusion, vertical relationships, auctions, and antitrust.
 
 # Fields of Research Interest
 
-Industrial Organization, Applied Microeconomics, Applied Econometrics.
+Industrial Organization, Applied Microeconomics, Applied Econometrics
 
