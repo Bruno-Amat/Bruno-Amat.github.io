@@ -26,7 +26,7 @@ Latest Draft: <a href="https://bruno-amat.github.io/files/When_Wholesalers_Join_
 
 ## How the State Bids: Government Participation in Procurement Auctions
 
-## Managing Long-Run Competition: Evidence from Sao Paulo Pharmaceutical Procurement
+## Managing Long-Run Competition: Evidence from São Paulo Pharmaceutical Procurement
 
 with <a href="https://karamkang.github.io/">Karam Kang</a> and <a href="https://sites.google.com/view/anh-h-nguyen">Anh H. Nguyen</a>.
 
