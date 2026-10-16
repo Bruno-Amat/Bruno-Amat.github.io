@@ -9,7 +9,11 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+
+
 {% include base_path %}
+
+
 
 
 # Working Paper
@@ -29,6 +33,10 @@ Latest Draft: <a href="https://bruno-amat.github.io/files/When_Wholesalers_Join_
 ## Managing Long-Run Competition: Evidence from São Paulo Pharmaceutical Procurement
 
 with <a href="https://karamkang.github.io/">Karam Kang</a> and <a href="https://www.andrew.cmu.edu/user/anhnguye/">Anh H. Nguyen</a>.
+
+## To Merge or Not to Merge: How Ownership Reshapes Health Care Markets
+
+## Learning by Bargaining: The Role of Information in Repeated Negotiation
 
 
 
